@@ -1,0 +1,5 @@
+server:
+  port: 9001
+
+config:
+  info: 这是测试dev
